@@ -20,7 +20,6 @@ namespace Test.Algrithom
             }
              
             Console.ReadLine();
-
         }
     }
 }
