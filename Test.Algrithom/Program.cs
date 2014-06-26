@@ -19,7 +19,6 @@ namespace Test.Algrithom
                 count = Console.ReadLine();
             }
 
-
             Console.ReadLine();
         }
     }
