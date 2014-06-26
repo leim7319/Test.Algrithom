@@ -18,8 +18,9 @@ namespace Test.Algrithom
                 TestQuickSort.TestRandomQuickSort(int.Parse(count));
                 count = Console.ReadLine();
             }
-
+             
             Console.ReadLine();
+
         }
     }
 }
