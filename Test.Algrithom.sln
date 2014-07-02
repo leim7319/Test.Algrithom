@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Algrithom", "Test.Algrithom\Test.Algrithom.csproj", "{DA7B4BD9-079C-4F41-95EE-A063538F2823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.DesignPatterns", "Test.DesignPatterns\Test.DesignPatterns.csproj", "{C85D6D0E-8C2E-4CEF-BF11-C779B90D23A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DA7B4BD9-079C-4F41-95EE-A063538F2823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7B4BD9-079C-4F41-95EE-A063538F2823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7B4BD9-079C-4F41-95EE-A063538F2823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85D6D0E-8C2E-4CEF-BF11-C779B90D23A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85D6D0E-8C2E-4CEF-BF11-C779B90D23A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85D6D0E-8C2E-4CEF-BF11-C779B90D23A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85D6D0E-8C2E-4CEF-BF11-C779B90D23A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
