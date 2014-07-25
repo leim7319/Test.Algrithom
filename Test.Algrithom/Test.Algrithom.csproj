@@ -45,12 +45,18 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sort\QuickSort.cs" />
+    <Compile Include="Sort\SortAll.cs" />
     <Compile Include="Test\TestQuickSort.cs" />
     <Compile Include="Utility\TestData.cs" />
     <Compile Include="Utility\TimeWatcher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="C++\Beatty.cpp" />
+    <Content Include="C++\gcd.cpp" />
+    <Content Include="C++\Middle.cpp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
